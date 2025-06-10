@@ -1,0 +1,12 @@
+/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/bin/Debug/net8.0/Library.eCommerce.deps.json
+/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/bin/Debug/net8.0/Library.eCommerce.dll
+/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/bin/Debug/net8.0/Library.eCommerce.pdb
+/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.AssemblyInfoInputs.cache
+/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.AssemblyInfo.cs
+/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.csproj.CoreCompileInputs.cache
+/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.sourcelink.json
+/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.dll
+/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/obj/Debug/net8.0/refint/Library.eCommerce.dll
+/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.pdb
+/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/obj/Debug/net8.0/ref/Library.eCommerce.dll

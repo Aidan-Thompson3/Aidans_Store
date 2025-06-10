@@ -63,8 +63,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="ViewModels\" />
-      <Folder Include="Views\" />
+      <ProjectReference Include="..\Library.eCommerce\Library.eCommerce.csproj" />
     </ItemGroup>
 
 </Project>
