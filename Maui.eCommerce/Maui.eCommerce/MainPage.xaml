@@ -16,8 +16,38 @@
                 
             <VerticalStackLayout Spacing="10" Margin="0,20,0,0">
                 <Button
-                    Text="Inventory"
-                    Clicked="InventoryClicked"/>
+                    Text="Inventory Management"
+                    Clicked="InventoryClicked" />
+                    
+              <Button
+                    Text="Shop Now"
+                    Clicked="ShopClicked" />
+                    
+                
+                <Button
+                    Text="View Cart"
+                    Clicked="CartClicked" />
+                 <!--    
+                <Button
+                    Text="Configuration"
+                    Clicked="ConfigClicked" />
+                
+                <Label
+                    Text="Which cart would you like?"
+                    FontSize="32"
+                    HorizontalOptions="Center"
+                    Margin="0,20,0,0" />
+                
+                <Button
+                    Text="Cart 1"
+                    Clicked="CartSelected" />
+                <Button
+                    Text="Cart 2"
+                    Clicked="CartSelected" />
+                    
+                    -->
+                
+                
             </VerticalStackLayout>
         </VerticalStackLayout>
     </ScrollView>
