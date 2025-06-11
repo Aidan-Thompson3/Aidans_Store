@@ -1,7 +1,8 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {},
+    "net8.0/iossimulator-arm64": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
@@ -67,6 +68,11 @@
           }
         },
         "runtimeIdentifierGraphPath": "/Users/aidanthompson/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "iossimulator-arm64": {
+        "#import": []
       }
     }
   }
