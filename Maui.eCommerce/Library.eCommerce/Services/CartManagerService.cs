@@ -66,7 +66,7 @@ public class CartManagerService
         foreach (var cartEntry in CartItems)
         {
             int cartId = cartEntry.Key;
-            ShoppingCartService cart = cartEntry.Value;
+            ShoppingCartService cart = cartEntry.Value;         
         
             Console.WriteLine($"CART #{cartId}" + (cartId == ActiveCartID ? " (ACTIVE)" : ""));
             Console.WriteLine("----------------------------------------");
@@ -94,6 +94,5 @@ public class CartManagerService
     
         Console.WriteLine("===============================");
     }
-    
     
 }

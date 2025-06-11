@@ -27,11 +27,12 @@
                 <Button
                     Text="View Cart"
                     Clicked="CartClicked" />
-                 <!--    
+                    
                 <Button
                     Text="Configuration"
                     Clicked="ConfigClicked" />
                 
+                <!--
                 <Label
                     Text="Which cart would you like?"
                     FontSize="32"

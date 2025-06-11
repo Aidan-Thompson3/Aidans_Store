@@ -48,6 +48,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = Maui.eCommerce.Resources.S
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
 
+[/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Maui.eCommerce/Views/ConfigurationView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui.eCommerce.Views.ConfigurationView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/ConfigurationView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/ConfigurationView.xaml
+
 [/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Maui.eCommerce/Views/InventoryManagementView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Maui.eCommerce.Views.InventoryManagementView.xaml

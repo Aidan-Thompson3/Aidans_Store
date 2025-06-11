@@ -23,4 +23,8 @@ public partial class MainPage : ContentPage
     {
         Shell.Current.GoToAsync("//ShoppingCart");
     }
+    private void ConfigClicked(object sender, EventArgs e)
+    {
+        Shell.Current.GoToAsync("//Configuration");
+    }
 }
