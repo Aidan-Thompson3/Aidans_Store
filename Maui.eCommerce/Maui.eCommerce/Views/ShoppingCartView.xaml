@@ -110,7 +110,7 @@
         <HorizontalStackLayout HorizontalOptions="Center" Spacing="10">
             <Button Text="Clear Cart" Clicked="ClearCart_Clicked" />
             <Button Text="Checkout" Clicked="Checkout_Clicked" />
-            <Button Text="Continue Shopping" Clicked="ContinueShopping_Clicked" />
+            <Button Text="Go Back" Clicked="GoBack_Clicked" />
         </HorizontalStackLayout>
     </VerticalStackLayout>
 </ContentPage>

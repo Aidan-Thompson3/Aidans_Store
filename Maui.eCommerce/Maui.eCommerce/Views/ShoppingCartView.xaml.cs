@@ -106,9 +106,9 @@ namespace Maui.eCommerce.Views
             _viewModel.RefreshCart();
         }
         
-        private void ContinueShopping_Clicked(object sender, EventArgs e)
+        async private void GoBack_Clicked(object sender, EventArgs e)
         {
-            Shell.Current.GoToAsync("//InventoryManagement");
+            await Shell.Current.GoToAsync("//MainPage");
         }
     }
 }

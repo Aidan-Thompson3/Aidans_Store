@@ -24,4 +24,8 @@
         Title="Configuration"
         ContentTemplate="{DataTemplate views:ConfigurationView}"
         Route="ConfigurationView" />
+    <ShellContent
+        Title="ProductDetails"
+        ContentTemplate="{DataTemplate views:ProductDetailsView}"
+        Route="ProductDetailsView" />
 </Shell>

@@ -34,7 +34,7 @@ public partial class InventoryManagementView : ContentPage
 
     private void AddClicked(object sender, EventArgs e)
     {
-        Shell.Current.GoToAsync("//Product");
+        Shell.Current.GoToAsync("//ProductDetailsView");
     }
 
     private void ContentPage_NavigatedTo(object sender, NavigatedToEventArgs e)
@@ -109,7 +109,7 @@ public partial class InventoryManagementView : ContentPage
 
     private void ViewCartClicked(object sender, EventArgs e)
     {
-        Shell.Current.GoToAsync("//ShoppingCart");
+        Shell.Current.GoToAsync("//ShoppingCartView");
     }
 
     private void SearchClicked(object sender, EventArgs e)

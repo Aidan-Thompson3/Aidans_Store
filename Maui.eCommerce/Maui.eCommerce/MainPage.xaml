@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Maui.eCommerce.MainPage">
+             x:Class="Maui.eCommerce.MainPage"
+             >
 
     <ScrollView>
         <VerticalStackLayout Padding="20" Spacing="20">
             <Label
                 Text="Aidan's Store"
                 FontSize="32"
-                HorizontalOptions="Center"
-                Margin="0,20,0,0" />
+                HorizontalOptions="Center"/>
             <Label
                 Text="{Binding Display}"
                 HorizontalOptions="Center" />
                 
-            <VerticalStackLayout Spacing="10" Margin="0,20,0,0">
+            <VerticalStackLayout Spacing="10" Margin="0,10,0,0">
                 <Button
                     Text="Inventory Management"
                     Clicked="InventoryClicked" />
