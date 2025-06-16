@@ -314,7 +314,6 @@
 /Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Maui.eCommerce/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCo.44FEF1AB.Up2Date
 /Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Maui.eCommerce/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCommerce.genruntimeconfig.cache
 /Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Maui.eCommerce/obj/Debug/net8.0-ios/iossimulator-arm64/ref/Maui.eCommerce.dll
-/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Maui.eCommerce/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Library.eCommerce.stamp
 /Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Maui.eCommerce/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.CSharp.stamp
 /Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Maui.eCommerce/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.stamp
 /Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Maui.eCommerce/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Configuration.stamp

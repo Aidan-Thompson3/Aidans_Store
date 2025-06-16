@@ -66,7 +66,7 @@ public class InventoryManagementViewModel : INotifyPropertyChanged
         NotifyPropertyChanged(nameof(Products));
     }
 
-    //Boilerplater code
+    //Boilerplate code
     public event PropertyChangedEventHandler? PropertyChanged;
     public void NotifyPropertyChanged([CallerMemberName] string propertyName = "")
     {
